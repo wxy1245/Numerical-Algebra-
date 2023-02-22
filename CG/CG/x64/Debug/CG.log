@@ -1,0 +1,19 @@
+﻿  Exercise.cpp
+  hw5.cpp
+  Mytest.cpp
+  Function.cpp
+E:\数值代数实验\CG\CG\Function.cpp(7,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\数值代数实验\CG\CG\Function.cpp(45,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\数值代数实验\CG\CG\Function.cpp(79,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\数值代数实验\CG\CG\Function.cpp(153,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  AuxiliaryFunction.cpp
+E:\数值代数实验\CG\CG\AuxiliaryFunction.cpp(7,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\数值代数实验\CG\CG\AuxiliaryFunction.cpp(8,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\数值代数实验\CG\CG\AuxiliaryFunction.cpp(22,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\数值代数实验\CG\CG\AuxiliaryFunction.cpp(33,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\数值代数实验\CG\CG\AuxiliaryFunction.cpp(44,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\数值代数实验\CG\CG\AuxiliaryFunction.cpp(55,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\数值代数实验\CG\CG\AuxiliaryFunction.cpp(66,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\数值代数实验\CG\CG\AuxiliaryFunction.cpp(77,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  CG.vcxproj -> E:\数值代数实验\CG\x64\Debug\CG.exe
